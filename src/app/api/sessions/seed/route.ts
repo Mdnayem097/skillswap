@@ -29,7 +29,7 @@ export async function GET() {
         category: "Design",
         price: 35,
         duration: 60,
-        imageUrl: "https://images.unsplash.com/photo-1561070791-26c113006238?w=500",
+        imageUrl: "https://dmarkly.com/wp-content/uploads/2025/02/UI-Designera_-Blog-Main.jpg",
         rating: 4.8
       },
       {

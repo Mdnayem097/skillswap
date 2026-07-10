@@ -22,7 +22,6 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li><Link href="/explore" className="hover:text-primary transition-colors">Explore Sessions</Link></li>
               <li><Link href="/about" className="hover:text-primary transition-colors">About Us</Link></li>
-              <li><Link href="/blog" className="hover:text-primary transition-colors">Our Blog</Link></li>
             </ul>
           </div>
 
@@ -32,7 +31,6 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li><Link href="/contact" className="hover:text-primary transition-colors">Contact Support</Link></li>
               <li><Link href="/privacy" className="hover:text-primary transition-colors">Privacy Policy</Link></li>
-              <li><Link href="/terms" className="hover:text-primary transition-colors">Terms of Service</Link></li>
             </ul>
           </div>
 
@@ -40,8 +38,8 @@ export default function Footer() {
           <div>
             <h3 className="text-sm font-semibold text-white tracking-wider uppercase mb-4">Contact info</h3>
             <ul className="space-y-2 text-sm text-slate-400">
-              <li>📧 support@skillswap.com</li>
-              <li>📞 +1 (555) 019-2834</li>
+              <li>📧 mdnayemswe@gmail.com</li>
+              <li>📞 +8801767148518</li>
               <li>📍 Dhaka, Bangladesh</li>
             </ul>
           </div>
